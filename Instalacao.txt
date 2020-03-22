@@ -1,0 +1,6 @@
+npm install -g yarn
+npm install -g create-react-app
+create-react-app -V
+npm create-react-app iniciando-com-react
+
+yarn start //exibir no browser
